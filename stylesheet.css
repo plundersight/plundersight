@@ -5,6 +5,8 @@ body{
   font-size: 50px;
   margin:0px;
   padding: 0px;
+  background-color: #1b1b1bf6;
+  color: #f3f3f3;
 }
 
 .title{
@@ -22,7 +24,7 @@ body{
 
 .waves-bottom{
   position: fixed;
-  bottom:-11px;
+  bottom:-15px;
   left:0px;
   width: 100vw;
 }
